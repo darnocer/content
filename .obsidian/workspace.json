@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "5e4488bd80c84228",
+    "type": "split",
+    "children": [
+      {
+        "id": "28a2b90b0ed23f4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba8d998fed3989af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📝 Quick Notes/10-25-2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "faea79decfdee970",
+    "type": "split",
+    "children": [
+      {
+        "id": "81af1315be0fbf16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33b638e01667cf2f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cfd45b55d16d9020",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e5e057482229b42d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "22505f719a8d037c",
+    "type": "split",
+    "children": [
+      {
+        "id": "716d617c5bff158b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5af5140497763ec4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "📝 Quick Notes/10-25-2023.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9cba72a3090c7944",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "📝 Quick Notes/10-25-2023.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "283c37d692ed245a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "99b0e619b68b2c7f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "📝 Quick Notes/10-25-2023.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "33b638e01667cf2f",
+  "lastOpenFiles": [
+    "🌅 Assets",
+    "📝 Quick Notes/10-25-2023.md",
+    "⚙️ Templates/General - Frontmatter Blank.md",
+    "⚙️ Templates/General - Divider.md",
+    "zArchive",
+    "📝 Quick Notes",
+    "💻 Snippets",
+    "🌐 Web Copy",
+    "✒️ Articles",
+    "⚙️ Templates"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Asana",
+      "path": "Asana.md"
+    },
+    {
+      "type": "file",
+      "title": "✅ ToDo",
+      "path": "🚫 Personal/✅ ToDo Archive.md"
+    },
+    {
+      "type": "file",
+      "title": "✅ ToDo Dump",
+      "path": "20 🔳 Areas/✅ ToDo Triage.md"
+    },
+    {
+      "type": "file",
+      "title": "⚡️ Next Steps",
+      "path": "22 🚫 Personal/⚡️ Next Steps.md"
+    },
+    {
+      "type": "file",
+      "title": "Dreamline",
+      "path": "11 📚 Reference/📈 Business/Dreamline.md"
+    },
+    {
+      "type": "file",
+      "title": "Goals",
+      "path": "22 🚫 Personal/Goals.md"
+    },
+    {
+      "type": "file",
+      "title": "Schedule",
+      "path": "22 🚫 Personal/Schedule.md"
+    },
+    {
+      "type": "file",
+      "title": "💻 Career",
+      "path": "21 🛠️ Projects/💻 Career.md"
+    },
+    {
+      "type": "file",
+      "title": "The Writing Process",
+      "path": "10 📝 MoCs/The Writing Process.md"
+    },
+    {
+      "type": "file",
+      "title": "\"Repository\" Apps",
+      "path": "21 🛠️ Projects/Future/Snippets.md"
+    },
+    {
+      "type": "file",
+      "title": "Automate Repeatable Actions",
+      "path": "21 🛠️ Projects/Future/Automate Repeatable Actions.md"
+    },
+    {
+      "type": "file",
+      "title": "Microdose for Healing",
+      "path": "21 🛠️ Projects/Future/Microdose for Healing.md"
+    },
+    {
+      "type": "file",
+      "title": "dariannocera.com",
+      "path": "21 🛠️ Projects/dariannocera.com.md"
+    },
+    {
+      "type": "file",
+      "title": "darian.digital",
+      "path": "21 🛠️ Projects/darian.digital.md"
+    }
+  ]
+}
