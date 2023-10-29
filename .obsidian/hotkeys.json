@@ -25,14 +25,6 @@
       "key": "."
     }
   ],
-  "obsidian-hotkeys-for-templates:General - Frontmatter Blank.md": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "1"
-    }
-  ],
   "workspace:goto-tab-1": [],
   "file-explorer:move-file": [
     {
@@ -49,5 +41,22 @@
       ],
       "key": "W"
     }
-  ]
+  ],
+  "obsidian-hotkeys-for-templates:Page - New Blog.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "1"
+    }
+  ],
+  "obsidian-hotkeys-for-templates:Page - New Tip.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "2"
+    }
+  ],
+  "workspace:goto-tab-2": []
 }
