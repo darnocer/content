@@ -16,5 +16,30 @@
       ],
       "key": "P"
     }
+  ],
+  "obsidian-hotkeys-for-templates:General - Divider.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "."
+    }
+  ],
+  "obsidian-hotkeys-for-templates:General - Frontmatter Blank.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "1"
+    }
+  ],
+  "workspace:goto-tab-1": [],
+  "file-explorer:move-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
   ]
 }
