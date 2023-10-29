@@ -1,4 +1,7 @@
 ---
 aliases: 
-tags: []
+tags: 
+summary: 
+type: 
+category:
 ---

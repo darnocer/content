@@ -41,5 +41,13 @@
       ],
       "key": "M"
     }
+  ],
+  "app:delete-file": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "W"
+    }
   ]
 }

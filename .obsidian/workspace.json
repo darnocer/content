@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/Article Sample.md",
+                "file": "tips/Tip Example.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/Article Sample.md",
+                "file": "tips/Tip Example.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/Article Sample.md",
+                "file": "tips/Tip Example.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/Article Sample.md"
+                "file": "tips/Tip Example.md"
               }
             }
           },
@@ -200,15 +200,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33b638e01667cf2f",
+  "active": "2d972ad565068811",
   "lastOpenFiles": [
-    "📝 Quick Notes/Example Tip.md",
     "blog/Article Sample.md",
+    "📝 Quick Notes/Plug-ins.md",
+    "📝 Quick Notes/Untitled.md",
+    "📝 Quick Notes/Example Tip.md",
+    "tips/Tip Example.md",
+    "⚙️ Templates/General - Frontmatter Blank.md",
     "📝 Quick Notes/Content Types.md",
     "Untitled",
-    "📝 Quick Notes/Plug-ins.md",
     "assets",
-    "⚙️ Templates/General - Frontmatter Blank.md",
     "⚙️ Templates/General - Divider.md",
     "zArchive",
     "📝 Quick Notes",
