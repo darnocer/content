@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tips/Tip Example.md",
+                "file": "tips/tip-example.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tips/Tip Example.md",
+                "file": "tips/tip-example.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tips/Tip Example.md",
+                "file": "tips/tip-example.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tips/Tip Example.md"
+                "file": "tips/tip-example.md"
               }
             }
           },
@@ -210,8 +210,8 @@
   },
   "active": "33b638e01667cf2f",
   "lastOpenFiles": [
-    "blog/Blog Sample.md",
-    "tips/Tip Example.md",
+    "blog/blog-sample.md",
+    "tips/tip-example.md",
     "📝 Quick Notes/Plug-ins.md",
     "⚙️ Templates/Page - New Blog.md",
     "blog/Article Sample.md",
