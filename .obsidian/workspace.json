@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "draft/Commit files directly from Obsidian to your blog.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b23abef487b65d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blog/sample-blog-2.md",
+                "file": "✏️ Drafts/Commit files directly from Obsidian to your blog.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/sample-blog-2.md",
+                "file": "✏️ Drafts/Commit files directly from Obsidian to your blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/sample-blog-2.md",
+                "file": "✏️ Drafts/Commit files directly from Obsidian to your blog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/sample-blog-2.md"
+                "file": "✏️ Drafts/Commit files directly from Obsidian to your blog.md"
               }
             }
           },
@@ -179,16 +165,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b23abef487b65d8",
+  "active": "33b638e01667cf2f",
   "lastOpenFiles": [
-    "draft/Commit files directly from Obsidian to your blog.md",
-    "blog/sample-blog-2.md",
-    "tips/tip-2.md",
-    "tips/tip-example.md",
-    "tips/tip-3.md",
     "blog/sample-blog.md",
+    "tips/tip-example.md",
+    "blog/sample-blog-2.md",
+    "✏️ Drafts/Commit files directly from Obsidian to your blog.md",
+    "tips/tip-2.md",
+    "tips/tip-3.md",
     "blog/blog-sample.md",
-    "draft",
+    "✏️ Drafts",
     "📝 Quick Notes/Plug-ins.md",
     "⚙️ Templates/Page - New Blog.md",
     "blog/Article Sample.md",
