@@ -23,7 +23,7 @@ jobs:
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
           git add content
-          git commit -m "Update content submodule"
+          git commit -m "AUTO WORKFLOW: Update content submodule"
           git push
 
       - name: Trigger Vercel Deployment # trigger vercel deployment from blog repo with updated content submodule
