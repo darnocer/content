@@ -1,0 +1,10 @@
+{
+  "promptDelete": false,
+  "showFrontmatter": true,
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "source",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "📝 Quick Notes",
+  "attachmentFolderPath": "🌅 Assets",
+  "propertiesInDocument": "visible"
+}

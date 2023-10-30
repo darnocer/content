@@ -1,0 +1,11 @@
+{
+  "files": [
+    "General - Divider.md",
+    "Page - New Tip.md",
+    "Page - New Blog.md"
+  ],
+  "templaterFiles": [],
+  "newFileTemplates": [],
+  "openNewFileTemplateInNewPane": true,
+  "useNewFileTemplateOnFileCreation": false
+}
