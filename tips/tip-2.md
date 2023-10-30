@@ -6,6 +6,7 @@ aliases:
 tags:
   - test
   - example
+  - sample
 draft?: false
 type:
   - tip
