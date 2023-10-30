@@ -1,4 +1,4 @@
-name: Update Content and Deploy to Vercel
+name: Update Content Submodule and Deploy to Vercel
 
 on:
   push:
@@ -10,22 +10,22 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Check out the 'blog' repo
-      - name: Checkout blog repository
+      - name: Checkout blog repository # checkout main blog repo
         uses: actions/checkout@v2
         with:
           repository: darnocer/blog
-          token: ${{ secrets.BLOG_UPDATE }}
+          token: ${{ secrets.BLOG_UPDATE }} #PAT secret (Github)
+          submodules: 'recursive'  # Ensure submodules are initialized and updated.
 
-      # Update the 'content' submodule
-      - name: Update content submodule
+      - name: Update content submodule # updates content submodule in the blog repo
         run: |
           git submodule update --remote content
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
           git add content
           git commit -m "Update content submodule"
           git push
 
-      # Trigger a Vercel deploy
-      - name: Trigger Vercel Deployment
+      - name: Trigger Vercel Deployment # trigger vercel deployment from blog repo with updated content submodule
         run: |
           curl -X POST ${{ secrets.VERCEL_HOOK }}
