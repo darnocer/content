@@ -3,12 +3,12 @@ name: Trigger Vercel Deployment
 on:
   push:
     branches:
-      - main 
+      - main
 
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Trigger Deployment on Vercel
-        run: |
-          curl -X POST ${{ secrets.VERCEL_HOOK }}
+    - name: Trigger Deployment
+      run: curl -X POST ${{ secrets.VERCEL_HOOK }}
