@@ -1,7 +1,7 @@
 ---
-title: Tip Example
+title: Tip Example 3
 summary: This is a summary
-date: 2023-10-29
+date: 2023-10-14
 aliases: 
 tags:
   - test

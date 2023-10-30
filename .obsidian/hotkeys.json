@@ -1,22 +1,4 @@
 {
-  "obsidian-git:commit": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "G"
-    }
-  ],
-  "obsidian-git:push2": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "P"
-    }
-  ],
   "obsidian-hotkeys-for-templates:General - Divider.md": [
     {
       "modifiers": [
@@ -58,5 +40,32 @@
       "key": "2"
     }
   ],
-  "workspace:goto-tab-2": []
+  "workspace:goto-tab-2": [],
+  "obsidian-git:commit": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    }
+  ],
+  "obsidian-git:push2": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "G"
+    }
+  ],
+  "obsidian-git:pull": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ]
 }
