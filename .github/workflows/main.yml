@@ -1,4 +1,4 @@
-name: Trigger Vercel Deployment
+name: Trigger Blog Deployment
 
 on:
   push:
@@ -8,7 +8,19 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Trigger Deployment on Vercel
-        run: |
-          curl -X POST ${{ secrets.VERCEL_HOOK }}
+    - name: Checkout blog repo
+      uses: actions/checkout@v2
+      with:
+        repository: darnocer/blog
+        token: ${{ secrets.BLOG_TRIGGER_TOKEN }}
+        path: blog
+
+    - name: Create empty commit and push
+      run: |
+        cd blog
+        git config user.name "GitHub Actions Bot"
+        git config user.email "darnocer@gmail.com"
+        git commit --allow-empty -m "Triggering Vercel Deployment"
+        git push
