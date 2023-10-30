@@ -26,10 +26,21 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vi
 
 > "Quote: Phasellus convallis elit id _urna ultricies_, quis convallis purus **mattis**."
 
+```javascript
+function getRandomNumber(min, max) {
+    return Math.floor(Math.random() * (max - min + 1)) + min;
+}
+
+const num = getRandomNumber(1, 100);
+console.log(`Random number between 1 and 100: ${num}`);
+```
+
 ## Another Heading 2
 
-Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus:
+Duis cursus, mi quis `viverra ornare`, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus:
 
 - Mollis interdum
 - Fusce dapibus
 - Tellus ac cursus
+
+

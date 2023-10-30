@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tips/tip-example.md",
+                "file": "blog/blog-sample.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tips/tip-example.md",
+                "file": "blog/blog-sample.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tips/tip-example.md",
+                "file": "blog/blog-sample.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tips/tip-example.md"
+                "file": "blog/blog-sample.md"
               }
             }
           },
@@ -167,10 +167,10 @@
   },
   "active": "b2c3dce007467464",
   "lastOpenFiles": [
+    "tips/tip-example.md",
     "blog/blog-sample.md",
     "draft/Commit files directly from Obsidian to your blog.md",
     "draft",
-    "tips/tip-example.md",
     "📝 Quick Notes/Plug-ins.md",
     "⚙️ Templates/Page - New Blog.md",
     "blog/Article Sample.md",
