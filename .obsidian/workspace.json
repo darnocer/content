@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1d343214f0d9a8e8",
+        "id": "f5406745a9d18c95",
         "type": "tabs",
         "children": [
           {
-            "id": "b2c3dce007467464",
+            "id": "fae8476aa5aa4602",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/sample-blog.md",
+                "file": "tips/tip-example.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/sample-blog.md",
+                "file": "tips/tip-example.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/sample-blog.md",
+                "file": "tips/tip-example.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/sample-blog.md"
+                "file": "tips/tip-example.md"
               }
             }
           },
@@ -165,8 +165,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b2c3dce007467464",
+  "active": "fae8476aa5aa4602",
   "lastOpenFiles": [
+    "tips/tip-2.md",
     "tips/tip-example.md",
     "blog/sample-blog.md",
     "blog/blog-sample.md",
