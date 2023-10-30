@@ -1,4 +1,4 @@
-name: Trigger Vercel Deployment
+name: Update Content and Deploy to Vercel
 
 on:
   push:
@@ -6,9 +6,26 @@ on:
       - main
 
 jobs:
-  deploy:
+  update-and-deploy:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Trigger Deployment
-      run: curl -X POST ${{ secrets.VERCEL_HOOK }}
+      # Check out the 'blog' repo
+      - name: Checkout blog repository
+        uses: actions/checkout@v2
+        with:
+          repository: darnocer/blog
+          token: ${{ secrets.BLOG_UPDATE }}
+
+      # Update the 'content' submodule
+      - name: Update content submodule
+        run: |
+          git submodule update --remote content
+          git add content
+          git commit -m "Update content submodule"
+          git push
+
+      # Trigger a Vercel deploy
+      - name: Trigger Vercel Deployment
+        run: |
+          curl -X POST ${{ secrets.VERCEL_HOOK }}
