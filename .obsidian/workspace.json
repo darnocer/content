@@ -4,53 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "28a2b90b0ed23f4e",
+        "id": "1d343214f0d9a8e8",
         "type": "tabs",
         "children": [
           {
-            "id": "ba8d998fed3989af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📝 Quick Notes/Plug-ins.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc8f79bb0fdad437",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "2d972ad565068811",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📝 Quick Notes/Plug-ins.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04151e468886876f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "eb70d4f4711320aa",
+            "id": "b2c3dce007467464",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -62,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "22505f719a8d037c",
@@ -208,9 +165,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33b638e01667cf2f",
+  "active": "b2c3dce007467464",
   "lastOpenFiles": [
     "blog/blog-sample.md",
+    "draft/Commit files directly from Obsidian to your blog.md",
+    "draft",
     "tips/tip-example.md",
     "📝 Quick Notes/Plug-ins.md",
     "⚙️ Templates/Page - New Blog.md",
@@ -219,7 +178,6 @@
     "⚙️ Templates/General - Frontmatter Blank.md",
     "📝 Quick Notes/Example Tip.md",
     "📝 Quick Notes/Content Types.md",
-    "Untitled",
     "assets",
     "⚙️ Templates/General - Divider.md",
     "zArchive",
