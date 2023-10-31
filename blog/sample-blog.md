@@ -11,6 +11,7 @@ type:
   - blog
 layout:
   - PostSimple
+category:
 ---
 
 
