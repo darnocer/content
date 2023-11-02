@@ -23,7 +23,7 @@ category:
 2. Select **Quick Actions**
 3. On the right-side pane: **When Workflow receives `image files` in `any application`**
 4. Select icon **Image** and **Color** for the workflow
-5. On the left-side pane, under *Library*, select **Files and Folders**
+5. On the left-side pane: under *Library*, select **Files and Folders**
 6. Select **Get Specified Finder Items** and drag to the right-side pane
 7. Under *Library*, select **Photos**
 8. Select **Scale Images** and drag to the right-side pane
