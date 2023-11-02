@@ -6,7 +6,7 @@ aliases:
 tags:
   - efficiency
   - macos
-draft: false
+draft: true
 type:
   - tip
 layout:
