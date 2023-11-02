@@ -21,18 +21,18 @@ category:
 ### Setup the Workflow
 1. Open **Automator**
 2. Select **Quick Actions**
-3. On the right-side paid, setup *When Workflow receives **image files** in **any application***
-4. Select icon image and color for the workflow
-5. On the left-side pane, under *Library*, select *Files and Folders*
+3. On the right-side pane: **When Workflow receives `image files` in `any application`**
+4. Select icon **Image** and **Color** for the workflow
+5. On the left-side pane, under *Library*, select **Files and Folders**
 6. Select **Get Specified Finder Items** and drag to the right-side pane
-7. Under Library, select *Photos*
+7. Under *Library*, select **Photos**
 8. Select **Scale Images** and drag to the right-side pane
-9. Choose **To Size (pixels)** from the dropdown and specify a size like **800px**
-10. File > Save As... *Image Resize*
+9. Choose `To Size (pixels)` from the dropdown and specify a size like `800px`
+10. **File** > **Save..**. name the file what you would like to call the Quick Action such as *Image Resize* 
 
 ### Make it a Quick Action
-1. Preference > *Extensions*
-2. Under Touch Bar or Finder, select Image Resize as a Quick Action
+1. Go to **Preferences** > **Extensions**
+2. Under Touch Bar or Finder, select *Image Resize* as a Quick Action
 3. If you add it to the Touch Bar, ensure it's configured to access Quick Actions
 
 ## Test It Out
