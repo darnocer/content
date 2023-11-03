@@ -29,4 +29,4 @@ category:
 
 Right-click on a file or folder you want to open, and select **Open in VSCode** under *Quick Actions*. 
 
-![[vscode-quick-action.png]]
+![VSCode Quick Action](/static/images/tips/posts/vscode-quick-action.png)
